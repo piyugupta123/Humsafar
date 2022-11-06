@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humsafar", "Humsafar\Humsafar.csproj", "{9B06E974-C628-4870-B022-35B0DB8CCDC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Humsafar.Data", "Humsafar.Data\Humsafar.Data.csproj", "{AD6925A6-40A9-44BC-B86C-F84C8D338A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B06E974-C628-4870-B022-35B0DB8CCDC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B06E974-C628-4870-B022-35B0DB8CCDC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B06E974-C628-4870-B022-35B0DB8CCDC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B06E974-C628-4870-B022-35B0DB8CCDC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6925A6-40A9-44BC-B86C-F84C8D338A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6925A6-40A9-44BC-B86C-F84C8D338A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6925A6-40A9-44BC-B86C-F84C8D338A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6925A6-40A9-44BC-B86C-F84C8D338A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E71A89C-7A7C-4BD7-9A29-6927B3C94B97}
+	EndGlobalSection
+EndGlobal
